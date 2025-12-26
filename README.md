@@ -1,4 +1,4 @@
-# Hand Gesture Audio Player
+# Selamat Berjuang Sukses Hand Gesture Python
 
 Proyek ini menggunakan OpenCV dan MediaPipe untuk mendeteksi gestur tangan secara real-time melalui kamera dan memicu pemutaran file audio yang sesuai. Aplikasi ini dirancang untuk mengenali tiga jenis gestur utama dengan respon audio yang berbeda.
 
@@ -29,8 +29,8 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal Python (versi 3.8
 ## Instalasi dan Setup
 
 1. Clone repositori ini:
-   git clone https://github.com/username/hand-gesture-audio-player.git
-   cd hand-gesture-audio-player
+   git clone https://github.com/Kubrooo/selamat-berjuang-sukses-hand-gesture-python.git
+   cd selamat-berjuang-sukses-hand-gesture-python
 
 2. Buat Virtual Environment (venv):
    python -m venv venv
